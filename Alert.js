@@ -1,0 +1,1 @@
+alert('La idea es que haga un HTML y le amarre un archivo .js con un alert y lo publique en github pages')
